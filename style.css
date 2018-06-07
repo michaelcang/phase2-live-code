@@ -1,0 +1,18 @@
+body {
+  margin: 0;
+  padding: 0;
+  text-align: center !important;
+}
+
+#image-list {
+  margin-left: 200px;
+}
+
+.inputImage {
+  position: relative;
+  left: 60px;
+}
+
+.card {
+  margin: 10px;
+}
